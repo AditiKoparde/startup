@@ -1,0 +1,2 @@
+# startup
+indian value prediction
